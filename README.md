@@ -19,7 +19,7 @@ The architecture focuses on minimizing serialization overhead in real-time simul
 * **High-Frequency Synchronization:** Reducing latency in split-path networking topologies.
 * **Deterministic Simulation:** Frameworks for frame-perfect state replication.
 
-### Status: Active Research / Experimental Prototype
+### Status: Active Research / Prototype
 
 This repository currently serves as a placeholder for the `tensorwarp` namespace. The core runtime and associated modules are private.
 
