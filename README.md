@@ -11,12 +11,6 @@
 
 **TensorWarp** is a high-throughput concurrency framework currently under active research and development. It is designed to optimize data locality and synchronization for massively parallel systems.
 
-### Core Objectives
-
-* **Data Locality:** Optimization of memory mapping for unified architecture systems.
-* **High-Frequency Synchronization:** Reducing latency in split-path networking topologies.
-* **Deterministic Simulation:** Frameworks for frame-perfect state replication.
-
 ### Status: Active Research / Prototype
 
 This repository currently serves as a placeholder for the `tensorwarp` namespace. The core runtime and associated modules are private.
