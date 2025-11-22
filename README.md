@@ -11,8 +11,6 @@
 
 **TensorWarp** is a high-throughput concurrency framework currently under active research and development. It is designed to optimize data locality and synchronization for massively parallel systems.
 
-The architecture focuses on minimizing serialization overhead in real-time simulation environments by establishing direct, zero-copy links between persistence layers and accelerator hardware.
-
 ### Core Objectives
 
 * **Data Locality:** Optimization of memory mapping for unified architecture systems.
